@@ -2,13 +2,13 @@
 
 ## How To Use Files
 
-- step 1 : open anardoniiOSAppleDevelopmentCertificate.p12 certificate file in mac os keychian
-- step 2 : input certificate passwrd (shown in info section)
-- step 3 : open your xcode project (suggest xcode 11 or later)
-- step 4 : in Signing & Capibilities section , disable automatically manage signing
-- step 5 : import anardoniiOSAppleDevelopmentProfile.mobileprovision file in Provision Profile field
-- step 6 : archived project from xcode menu bar (Product -> Archive)
-- step 7 : enjoy
+- Step 1 : Open AnariOSAppleDevelopmentCertificate.p12 certificate file in Mac OS Keychain
+- Step 2 : Input certificate Password (shown in info section)
+- Step 3 : Open your xcode project (suggest xcode 11 or later)
+- Step 4 : In Signing & Capabilities section , disable automatically manage signing
+- Step 5 : Import AnariOSAppleDevelopmentProfile.mobileprovision file in Provision Profile field
+- Step 6 : archived project from xcode menu bar (Product -> Archive)
+- Step 7 : enjoy
 
 ## Info
 
