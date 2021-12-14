@@ -7,8 +7,8 @@
 - Step 3 : Open your xcode project (suggest xcode 11 or later)
 - Step 4 : In Signing & Capabilities section , disable automatically manage signing
 - Step 5 : Import AnariOSAppleDevelopmentProfile.mobileprovision file in Provision Profile field
-- Step 6 : archived project from xcode menu bar (Product -> Archive)
-- Step 7 : enjoy
+- Step 6 : Archive project from xcode menu bar (Product -> Archive)
+- Step 7 : Enjoy
 
 ## Info
 
